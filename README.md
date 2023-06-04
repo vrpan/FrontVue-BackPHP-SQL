@@ -1,6 +1,9 @@
 # FrontVue-BackPHP-SQL
 ### Prerequisites: Docker and Docker Compose should be installed on your developer's machine and dev server
 ### Clone the repo
+```
+git clone https://github.com/vrpan/FrontVue-BackPHP-SQL.git
+```
 ### Run docker-compose
 ```
 cd FrontVue-BackPHP-SQL
@@ -12,7 +15,7 @@ docker-compose up -d
 ```
 docker-compose ps
 ```
-The output should be simmilar:
+The output should be similar to:
 ```
 
          Name                   Command           State           Ports
