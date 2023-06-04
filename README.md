@@ -32,6 +32,10 @@ sql_frontend_1           ngin ...                         >80/tcp,:::8080-
 frontvue-backphp-        /app/docker-             Up      0.0.0.0:80-
 sql_proxy_1              entrypoint.sh  ...               >80/tcp,:::80->80/tcp
 ```
+### Add hosts to /etc/hosts
+127.0.0.1 app.loc
+127.0.0.1 api.app.loc
+
 ### Check connectivity to app
 ```
 curl app.loc
