@@ -3,7 +3,6 @@
 ### Clone the repo
 ### Run docker-compose
 ```
-cd ~
 cd FrontVue-BackPHP-SQL
 ```
 ```
