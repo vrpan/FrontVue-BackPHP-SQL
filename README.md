@@ -1,7 +1,11 @@
 # FrontVue-BackPHP-SQL
 ### Install docker and docker-compose on local machine (dev server)
 ### Clone the repo
-### Run docker-compose image nginx
+### Run docker-compose
+```
+cd ~
+cd FrontVue-BackPHP-SQL
+```
 ```
 docker-compose up -d
 ```
