@@ -1,5 +1,5 @@
 # FrontVue-BackPHP-SQL
-### Prerequisites: Docker and Docker Compose should be installed on your local machine (dev server)
+### Prerequisites: Docker and Docker Compose should be installed on your developer's machine and dev server
 ### Clone the repo
 ### Run docker-compose
 ```
